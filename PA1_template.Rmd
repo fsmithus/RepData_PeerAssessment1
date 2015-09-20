@@ -134,3 +134,7 @@ xyplot(data.imputed$steps ~ data.imputed$interval | data.imputed$day.type,
        layout=c(1,2), type="l",xlab="Interval",ylab="Number of Steps")
 ```
 
+With a little more effort, I could reduce the noise in the plots, but it appears that weekdays see the most steps around 8:00am and again around 6:00pm. Weekend days appear to have fewer steps with the peak around 4:00pm.
+
+(Out of time.)
+
