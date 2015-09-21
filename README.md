@@ -1,3 +1,27 @@
+## Read this first!
+
+The day after this assignment was due (the day after I submitted it),
+I noticed that the .md file was not the correct version. In fact, it
+does not even match the .Rmd file, nor the .html file. It was an earlier
+version. For some reason, during my work, RStudio just decided to stop
+re-generating the .md file, so the .md file was a remnant from an earlier
+iteration.
+
+As you evaluate my work, please consider, either looking at the .Rmd or
+.html files. You can verify their time stamps for the SHA that I submitted.
+I have also made one more commit, with this updated README.md and the
+files that should have been submitted.
+
+I have figured out a manual work-around for the glitch and the latest
+commit contains the corrected .md file.
+
+I will accept your judgement of a fair score.
+
+Thanks and regards.
+
+Fred Smith
+
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
